@@ -3,6 +3,6 @@ layout: home
 title: Home
 ---
 
-Welcome. I'm Micaehl — I do independent security research with a focus on Windows\android\linux internals and vulnerability analysis.
+Welcome. I'm Michael — I do independent security research with a focus on Windows\android\linux internals and vulnerability analysis.
 
 This site is where I publish technical writeups and findings. Everything here is conducted in isolated lab environments with proper authorization, and published after patches are available.
