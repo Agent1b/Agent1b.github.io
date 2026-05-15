@@ -8,3 +8,7 @@ I'm Michael Baazov, I do independent security research with a focus on Windows\a
 
 This site is where I publish technical writeups and findings.
 Everything here is conducted in isolated lab environments with proper authorization, and published after patches are available.
+
+## Projects
+
+- [Metatron AI Security Camera & Drone](/projects/metatron-project/)
